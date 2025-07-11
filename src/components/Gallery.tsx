@@ -7,7 +7,7 @@ const Gallery: React.FC = () => {
       name: "María González",
       role: "Coordinadora de Padres - 5to Primaria",
       school: "Colegio San Martín",
-      image: "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop",
+      image: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop",
       rating: 5,
       comment: "Excelente coordinación desde el primer contacto. Vinieron al colegio, hicieron una presentación súper profesional y todos los padres quedaron convencidos. Las fotos de promoción quedaron hermosas."
     },
@@ -15,7 +15,7 @@ const Gallery: React.FC = () => {
       name: "Carlos Ruiz",
       role: "Coordinador de Padres - 3ro Secundaria",
       school: "I.E. José Olaya",
-      image: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop",
+      image: "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop",
       rating: 5,
       comment: "La reunión fue muy organizada y puntual. Explicaron todo claramente, los precios son justos y la calidad del trabajo es excelente. Recomiendo 100% para coordinadores que buscan un servicio confiable."
     },

@@ -1,9 +1,9 @@
 import React from 'react';
-import { Calendar, Users, Award, Clock } from 'lucide-react';
+import { Calendar, Clock } from 'lucide-react';
 
 const Hero: React.FC = () => {
   return (
-    <section id="inicio" className="bg-gradient-to-br from-gray-900 via-gray-800 to-yellow-900 text-white py-20 relative overflow-hidden">
+   <section id="inicio" className="bg-gradient-to-br from-slate-900 via-gray-800 to-amber-900 text-white py-20 relative overflow-hidden">
       {/* Decorative elements */}
       <div className="absolute top-10 right-10 opacity-5">
         <svg width="120" height="120" viewBox="0 0 120 120" className="text-white">

@@ -113,7 +113,7 @@ const Footer: React.FC = () => {
               <div className="flex items-start space-x-3">
                 <MapPin className="w-5 h-5 text-amber-400 mt-1" />
                 <div>
-                  <p className="text-gray-300">Lima, Perú</p>
+                  <p className="text-gray-300">Chimbote, Perú</p>
                   <p className="text-gray-300">Servicio a nivel nacional</p>
                 </div>
               </div>
@@ -132,7 +132,14 @@ const Footer: React.FC = () => {
         <div className="border-t border-gray-800 mt-12 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 text-sm">
-              © 2024 Paris Producciones. Todos los derechos reservados.
+              © 2025 Aguilar Jaico Franklin. Todos los derechos reservados.
+            </p>
+            <p className="text-gray-400 text-sm">
+              © 2025 Bello Capa Rodrigo. Todos los derechos reservados.
+            </p>
+            <p className="text-gray-400 text-sm">
+              © 2025 Perez Guanilo Jesus. Todos los derechos reservados.
+              
             </p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <a href="#" className="text-gray-400 hover:text-amber-400 text-sm transition-colors">
